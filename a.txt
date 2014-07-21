@@ -6,4 +6,3 @@ some
 some thing
 this is some thing
 lisin
-zhangsan
