@@ -3,4 +3,3 @@ sky2
 sky3
 sky4
 some
-some thing
