@@ -4,5 +4,3 @@ sky3
 sky4
 some
 some thing
-this is some thing
-lisin
